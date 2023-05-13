@@ -1,0 +1,104 @@
+<div class="elementor-widget-container">
+			
+<p>Comunícate con nosotros y nos pondremos en contacto contigo tan pronto como nos sea posible.</p>
+
+
+
+<h2>Envíanos tus comentarios:</h2>
+
+
+
+<p>Los campos marcados con * son obligatorios</p>
+
+
+
+<div class="wp-block-spacer" style="height: 20px;" aria-hidden="true">&nbsp;</div>
+
+
+
+<div class="wp-block-coblocks-row coblocks-row-551462210" data-columns="2" data-layout="66-33"><div class="wp-block-coblocks-row__inner has-no-padding has-no-margin is-stacked-on-mobile has-medium-gutter">
+<div class="wp-block-coblocks-column coblocks-column-5514624728" style="width:60.00%"><div class="wp-block-coblocks-column__inner has-no-padding has-no-margin">
+		<div class="coblocks-form" id="bb6b865268872939f2db5d5b91fcedc3c8148729">
+
+			
+			<form action="https://www.tecnica1.edu.mx/comunicate-con-nosotros/#bb6b865268872939f2db5d5b91fcedc3c8148729" method="post">
+				
+<label for="nombre" class="coblocks-label">Nombre: <span class="required">*</span></label>
+		<input type="hidden" name="field-nombre[label]" value="Nombre:">
+
+				<input type="hidden" id="name-field-id" name="name-field-id" class="coblocks-name-field-id" value="field-nombre">
+		
+		<input type="text" id="nombre" name="field-nombre[value]" class="coblocks-field coblocks-field--name" required="">
+
+		
+
+<label for="correo-electronico" class="coblocks-label">Correo electrónico <span class="required">*</span></label>
+		<input type="hidden" name="field-correo-electronico[label]" value="Correo electrónico">
+
+		
+		<input type="hidden" id="email-field-id" name="email-field-id" class="coblocks-email-field-id" value="field-correo-electronico">
+		<input type="email" id="correo-electronico" name="field-correo-electronico[value]" class="coblocks-field coblocks-field--email" required="">
+
+		
+
+<label for="mensaje" class="coblocks-label">Mensaje <span class="required">*</span></label>
+		<input type="hidden" name="field-mensaje[label]" value="Mensaje">
+
+		
+		<textarea name="field-mensaje[value]" id="mensaje" class="coblocks-field coblocks-textarea" rows="20" required=""></textarea>
+
+		
+
+
+		<div class="coblocks-form__submit wp-block-button">
+			<button type="submit" class="wp-block-button__link" style="">Enviar</button>
+			<input type="hidden" id="form-submit" name="form-submit" value="d28f64409c"><input type="hidden" name="_wp_http_referer" value="/comunicate-con-nosotros/">			<input type="hidden" name="action" value="coblocks-form-submit">
+
+					</div>
+
+		
+				<input class="coblocks-field verify" type="email" name="coblocks-verify-email" autocomplete="off" placeholder="Correo electrónico" tabindex="-1">
+				<input type="hidden" name="form-hash" value="bb6b865268872939f2db5d5b91fcedc3c8148729">
+
+							</form>
+
+		</div>
+
+		
+
+
+<p>&nbsp;</p>
+</div></div>
+
+
+
+<div class="wp-block-coblocks-column coblocks-column-5514624733" style="width:39.00%"><div class="wp-block-coblocks-column__inner has-no-padding has-no-margin">
+<div class="wp-block-contact-widgets-contact-block">
+<ul class="fields">
+<li class="has-label">
+<div><strong>Correo electrónico<br></strong>
+<div class="contact-email">info@tecnica1.edu.mx</div>
+</div>
+</li>
+<li class="has-label">
+    <br>
+<div><strong>Teléfono<br></strong>
+<div class="contact-phone">951 515 2388</div>
+</div>
+</li>
+<li class="has-label">
+<div><strong>Horario de atención<br></strong>
+<div class="contact-fax">Lun – Vie, 07:00 a 15:00 hrs</div>
+</div>
+</li>
+<li class="has-label">
+<div><strong>Dirección<br></strong>
+<div class="contact-address">Blvd. Lic. Eduardo Vasconcelos 621, Centro, 68080 Oaxaca de Juárez, Oax.</div>
+<div class="has-map"><iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15256.410568040226!2d-96.7146575!3d17.0676313!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa47785a233f42ab7!2sEscuela%20Secundaria%20T%C3%A9cnica%20N%C3%BAmero%201!5e0!3m2!1ses-419!2smx!4v1569664277058!5m2!1ses-419!2smx" width="100%" height="205" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+</li>
+</ul>
+</div>
+</div></div>
+</div></div>
+		</div>
